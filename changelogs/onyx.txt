@@ -1,6 +1,35 @@
 Changelog
 =========
 
+04/07/2026
+----------
+- release: Bump Security String to 2026-07-01
+- camera: Include MIUI Camera
+- camera: Changed MiuiCamera Icon to OnePlus Camera Icon Now with Gradient Instead of White BG
+- camera: Fixed Themed Icon of MiuiCamera for Pixel Launcher
+- overlay: Import pinned service libraries from AOSPA
+- sepolicy: Neverallow app access to /dev/ashmem
+- rootdir: init: Disable native stats collection service
+- rootdir: Add popular game packages to sched_lib_name
+- props: Disable FRP
+- configs: audio: Disable DRC
+- rootdir: Set ro.boot.hardware.revision property (The value would be shown on Settings > About phone > Model > Hardware version.)
+- props: Enable automatic Bluetooth profile reconnection
+- overlay: CarrierConfig: Globally enable LTE+ or 4G+ icon
+- props: Disable verbose camera logs
+- props: Force disable iorapd
+- wifi: Enable QPower and Deep Sleep simultaneously
+- Allow camera to skip high frame rate checks
+- overlays: Allow HFR for MIUI Camera
+- Switch to 12 GB Dalvik heap profile
+- Patch blobs to allocate GraphicBuffer with the new size
+- Add missing camera sensor blobs from OS3.0.7.0.WOLCNXM
+- sepolicy: Allow Camera HAL to call the IntentAware service
+- Adapt uclamp only for CASS hinting
+- sepolicy: Drop AOSP NXP authsecret HAL label
+- dolby: Tweak DAX configuration ( Increase Speaker Volume Sound for Dolby )
+- configs: Move dax-default.xml to the device tree
+
 06/06/2026
 ----------
 - Update blobs from OS3.0.7.0.WOLMIXM
