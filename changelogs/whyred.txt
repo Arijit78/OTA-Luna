@@ -1,6 +1,12 @@
 Changelog
 =========
 
+04/07/2026
+----------
+- Synced with latest source
+- Updated blur configs
+- Improved ui smoothness
+
 10/06/2026
 ----------
 - Synced with latest source
