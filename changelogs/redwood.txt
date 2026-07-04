@@ -1,5 +1,14 @@
 Changelog
 =========
+21/04/2026
+---------------
+- Sync with latest source
+- added proper flags
+- added systemui restart overlay
+- enabled x reality
+- Introduce init.lahaina.perf.rc for performance tuning
+
+
 
 21/04/2026
 ---------------
