@@ -1,5 +1,8 @@
 Changelog
 =========
+--/--/----
+Enable system-wide background blur (Adreno 610 tuned)
+
 04/07/2026
 ---------------
 First Official lunaris build for sapphire
