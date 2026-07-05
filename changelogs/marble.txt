@@ -1,6 +1,15 @@
 Changelog
 =========
 
+05/07/26
+- sm8450-common: Set debug.sf.disable_client_composition_cache to 0
+- sm8450-common: Remove fwk-detect lib from PRODUCT_PACKAGES
+- sm8450-common: Remove PASR leftovers
+- sm8450-common: overlay: Reduce blur radius
+- sm8450-common: Remove virtual framebuffer
+- sm8450-common: Disable continuous transaction tracing on all build types
+- Remove qc mem offline driver.
+
 25/06/26
 ------------
 - latest source synced
