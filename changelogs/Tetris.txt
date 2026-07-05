@@ -1,5 +1,14 @@
 Changelog
 ==========
+05/07/2026
+----------
+- Fix an sepolicy denial causing deep sleep issues.
+- Reduce ro.surface_flinger.uclamp.min.
+- Fixed heating issue caused in some scenarios.
+- Add uclamp entries and refine them for SUSTAINED_PERFORMANCE.
+- Improve uclamp value for LAUNCH.
+- Add TAUclamp entry for EXPENSIVE_RENDERING.
+
 09/06/2026
 ----------
 - Forced down to triple frame buffers.
