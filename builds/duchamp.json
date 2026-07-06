@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "Adarsh",
+      "oem": "Xiaomi",
+      "device": "duchamp",
+      "filename": "Lunaris-AOSP-duchamp-OFFICIAL-3.12-GMS-2026070509.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/duchamp/Lunaris-AOSP-duchamp-OFFICIAL-3.12-GMS-2026070509.zip/download",
+      "timestamp": 1783245765,
+      "md5": "453cc539067ddffea1a218470a927ba7",
+      "sha256": "ab43be1f59a1feb93a6ada863de681d3ed60137894c1595dbe6f65bc7c229461",
+      "size": 3679998831,
+      "version": "3.12",
+      "buildtype": "user",
+      "forum": "https://t.me/adarsh_8300u",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "https://t.me/adarsh_8300u",
+      "dt": "https://github.com/Adarsh0127-Elite/device_xiaomi_duchamp.git",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
+}
