@@ -25,3 +25,8 @@ Fixed a weird issue in the GooglePay app where the scanner shows a black screen
 Fixed heating issues in rare cases 
 Reduce charging speed even more by default when tempratre of device is hot
 Resolved or made the lag negligible when pulling down quick settings with too many notifications
+
+#######################################################################################################
+
+July 7th 
+Synced with latest source
