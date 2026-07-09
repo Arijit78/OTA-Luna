@@ -1,6 +1,15 @@
 Changelog
 =========
 
+07/08/2026
+---------------
+-Sync Rom Source to Lunaris AOSP 3.12
+-Update Device Trees to latest Source 11.F.90
+-Updated Kernel and SUSFS to latest
+-Updated AmberKernel V3.2
+-OP Camera Port thanks to the OP Camera Team
+
+
 06/16/2026
 ---------------
 -Sync Rom Source to Lunaris AOSP 3.11
