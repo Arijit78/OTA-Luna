@@ -1,6 +1,23 @@
 Changelog
 =========
 
+08/07/2026
+---------------   
+• Sync with latest hardware_dolby
+• Setup reserved space
+• Enable SurfaceFlinger blur
+• Dropped uclamp treewide changes
+• Unset TARGET_CPU_ABI2
+• Rename /persist to /mnt/vendor/persist
+• Compile kernel without GCC
+• Add SP1 IR support
+• Import AIDL IR service
+• Set default Quick Settings tiles
+• Update brightness overlay values
+• Beautify RRO overlays
+• Drop launcher overlay
+
+
 12/06/2026
 ---------------   
 • Initial Project Lunaris-AOSP bring-up
