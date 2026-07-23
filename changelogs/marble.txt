@@ -1,5 +1,9 @@
 Changelog
 =========
+24/07/24 - Hotfix
+- Dropped 64bit
+- add back L3MinFreq under INTERACTION
+- increase audio offload buffer size from 32KB to 64KB
 
 23/07/26
 - switched 64bit
