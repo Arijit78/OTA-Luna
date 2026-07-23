@@ -1,28 +1,29 @@
 {
   "response": [
     {
-      "maintainer": "ZaraKnYu",
+      "maintainer": "NoEscape.exe",
       "oem": "Motorola",
       "device": "mumba",
       "filename": "Lunaris-AOSP-mumba-OFFICIAL-3.11-GMS-2026061910.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/mumba/Lunaris-AOSP-mumba-OFFICIAL-3.11-GMS-2026061910.zip/download",
-      "timestamp": 1781866770,
-      "md5": "b61ead230f094138ad55feaea22a2ce0",
-      "sha256": "97cd9f1910a7af0c1b2ab732966968bcf89412bfa45c77da1460ec8241be2b23",
-      "size": 2275430401,
-      "version": "3.11",
+      "download": "https://sourceforge.net/projects/ghosuto/files/mumba/Lunaris-AOSP-mumba-OFFICIAL-3.12-GMS-2026072302.zipdownload",
+      "timestamp": 1753248619,
+      "md5": "8d78b0804e6a80f81721d897d4066d0c",
+      "sha256": "c5f9f9114e7dee25248274a8c7080fd71dfd56ef71b425f84a347fbc9f62cb3e",
+      "size": 2389942456,
+      "version": "3.12",
       "buildtype": "user",
-      "forum": "https://t.me/zaraknyu",
+      "forum": "https://t.me/noescape_aosp",
       "gapps": "",
       "firmware": "",
       "modem": "",
       "bootloader": "",
       "recovery": "https://sourceforge.net/projects/ghosuto/files/mumba/recovery/recovery.img/download",
       "paypal": "",
-      "telegram": "https://t.me/zaraknyu",
-      "dt": "https://github.com/motorola-sm6435/android_device_motorola_mumba",
+      "telegram": "https://t.me/noescape_aosp",
+      "dt": "https://github.com/mumba-resources/android_device_motorola_mumba",
       "common-dt": "",
-      "kernel": "https://github.com/motorola-sm6435/android_device_motorola_mumba-kernel"
+      "kernel": "https://github.com/mumba-resources/android_device_motorola_mumba-kernel"
     }
   ]
 }
+
