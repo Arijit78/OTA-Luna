@@ -1,6 +1,13 @@
 Changelog
 =========
 
+23/07/26
+- switched 64bit
+- Dolby updated Auto EQ profiles
+- Updated Powerhint
+- Introduce Performance Monitor
+
+
 05/07/26
 - sm8450-common: Set debug.sf.disable_client_composition_cache to 0
 - sm8450-common: Remove fwk-detect lib from PRODUCT_PACKAGES
