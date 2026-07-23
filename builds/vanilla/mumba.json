@@ -1,0 +1,27 @@
+  "response": [
+    {
+      "maintainer": "",
+      "oem": "",
+      "device": "mumba",
+      "filename": "Lunaris-AOSP-mumba-OFFICIAL-3.12-VANILLA-2026072302.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/mumba/Lunaris-AOSP-mumba-OFFICIAL-3.12-VANILLA-2026072302.zip/download",
+      "timestamp": 1784774930,
+      "md5": "c822b2faae0ecab478a07f223d694d2f",
+      "sha256": "f2fb98400aa7c42871b308a8f9b98edc0dd217452039b3e48d7ba2228c67c575",
+      "size": 1613417794,
+      "version": "3.12",
+      "buildtype": "user",
+      "forum": "https://t.me/noescape_aosp",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "https://sourceforge.net/projects/ghosuto/files/mumba/recovery/recovery.img/download",
+      "paypal": "",
+      "telegram": "https://t.me/noescape_aosp",
+      "dt": "https://github.com/mumba-resources/device_motorola_mumba",
+      "common-dt": "",
+      "dt": "https://github.com/mumba-resources/device_motorola_mumba-kernel",
+    }
+  ]
+}
