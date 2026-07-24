@@ -17,7 +17,7 @@ Added new display color options
 
 #######################################################################################################
 
-June !7th 2026
+June 17th 2026
 Synced with latest source 
 Removed color options (for now)
 Reoptimised scudo 
@@ -30,3 +30,13 @@ Resolved or made the lag negligible when pulling down quick settings with too ma
 
 July 7th 
 Synced with latest source
+
+#######################################################################################################
+
+July 24th
+
+Updadted blobs 
+Matched brightness to stock NOS
+some improvements in smoothness
+tuned powerhints a little more
+Synced with latest source 
