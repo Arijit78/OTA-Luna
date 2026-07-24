@@ -1,6 +1,9 @@
 Changelog
 =========
---/--/----
+24/07/2026
+---------------
+Add MiuiGallery (Port by Angelpor09_Devv)
+Add MiuiCamera support 108MP and 12MP in main camera (Spetial Thanks to Liieko for 108 MP FIX)
 Enable system-wide background blur (Adreno 610 tuned)
 
 04/07/2026
