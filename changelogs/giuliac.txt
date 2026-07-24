@@ -1,6 +1,13 @@
 Changelog
 =========
 
+07/24/2026
+----------
+- Fixed Oplus Gallery sharing feature
+- Updated common blobs from waffle OOS 16.0.9.400
+- Disabled all CLO-specific perf features
+- Allow surfaceflinger to use the big cluster
+
 07/11/2026
 ----------
 - Updated blobs and firmware from OOS 16.0.8.300
