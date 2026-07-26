@@ -1,6 +1,13 @@
 Changelog
 =========
 
+07/26/2026
+---------------
+-Sync with latest source
+-Fix freezing issues in some apps
+-Fixed alert slider custom modes
+-Added HDR brightness mode
+
 07/08/2026
 ---------------
 -Sync Rom Source to Lunaris AOSP 3.12
