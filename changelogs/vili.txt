@@ -1,6 +1,10 @@
 Changelog
 =========
 
+26/07/2026
+---------------
+- Update/Flash > Reboot System
+
 30/06/2026
 ---------------
 - Sign key has been changed OTA will fail
