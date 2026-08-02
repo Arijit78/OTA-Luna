@@ -1,6 +1,12 @@
 Changelog
 =========
 
+24/07/2026
+---------------   
+- Completey disable 6ghz hotspot (unsupported)
+- Enabled wide color display
+- Fix oneplus camera layout
+
 26/05/2026
 ---------------   
 - Initial Official release
