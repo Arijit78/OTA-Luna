@@ -1,6 +1,10 @@
 Changelog
 =========
 
+08/03/2026
+----------
+- Synced latest source changes
+
 07/24/2026
 ----------
 - Fixed Oplus Gallery sharing feature
