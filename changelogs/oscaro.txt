@@ -1,6 +1,10 @@
 Changelog
 =========
 
+04/08/2026
+---------------
+- Synced with latest source
+
 06/07/2026
 ---------------
 - Synced with latest source
