@@ -1,5 +1,13 @@
 Changelog
 =========
+04/08/26
+- switched 64bit
+- latest source synced
+- Added Vulkan support and media fix
+- Powerhint updated
+- Disabled ADVANCED_DISPLAY_COLOR
+
+
 24/07/24 - Hotfix
 - Dropped 64bit
 - add back L3MinFreq under INTERACTION
