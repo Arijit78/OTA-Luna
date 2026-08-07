@@ -1,6 +1,15 @@
 Changelog
 =========
 
+07/08/2026
+----------
+- Latest Source Synced
+- August Security Patch
+- Full DTs Rebase
+- Added NotGameTurbo
+- Dropped Dolby Atmos for Now
+- Misc fixes and Improvement
+
 04/07/2026
 ----------
 - release: Bump Security String to 2026-07-01
