@@ -1,15 +1,18 @@
+{
   "response": [
     {
-      "maintainer": "",
-      "oem": "",
-      "device": "mumba",
-      "filename": "Lunaris-AOSP-mumba-OFFICIAL-3.12-VANILLA-2026072302.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/mumba/Lunaris-AOSP-mumba-OFFICIAL-3.12-VANILLA-2026072302.zip/download",
-      "timestamp": 1784774930,
-      "md5": "c822b2faae0ecab478a07f223d694d2f",
-      "sha256": "f2fb98400aa7c42871b308a8f9b98edc0dd217452039b3e48d7ba2228c67c575",
-      "size": 1613417794,
+      "maintainer": "NoEscape.exe",
+      "oem": "Motorola",
+      "device": "Motorola G57 Power",
+      "filename": "Lunaris-AOSP-mumba-OFFICIAL-3.12-VANILLA-2026080815.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/mumba/vanilla/Lunaris-AOSP-mumba-OFFICIAL-3.12-VANILLA-2026080815.zip/download",
+      "timestamp": 1786204619,
+      "md5": "62ab2e3a69de756df2f00ddc06b18e94",
+      "sha256": "692a5a014418c8ff66805f7826963e5baef9c9ed5ab5244d011add43a6529516",
+      "size": 1620529857,
       "version": "3.12",
+      "os_patch_level": "2026-08-01",
+      "os_sdk_level": 36,
       "buildtype": "user",
       "forum": "https://t.me/noescape_aosp",
       "gapps": "",
@@ -18,10 +21,10 @@
       "bootloader": "",
       "recovery": "https://sourceforge.net/projects/ghosuto/files/mumba/recovery/recovery.img/download",
       "paypal": "",
-      "telegram": "https://t.me/noescape_aosp",
-      "dt": "https://github.com/mumba-resources/device_motorola_mumba",
+      "telegram": "",
+      "dt": "https://github.com/Motorola-SM6435-Resources/android_device_motorola_mumba",
       "common-dt": "",
-      "dt": "https://github.com/mumba-resources/device_motorola_mumba-kernel",
+      "kernel": "https://github.com/Motorola-SM6435-Resources/android_device_motorola_mumba-kernel"
     }
   ]
 }
