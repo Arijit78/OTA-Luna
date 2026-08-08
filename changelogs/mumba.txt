@@ -1,6 +1,13 @@
 Changelog
 =========
 
+08/08/2026
+- Fix random reboots
+- Drop ViPER4AndroidFX
+- Switch to AVC 3.1 for screen recording
+- Switch back to QTI Power HAL
+- Revert building libvmmem from source
+
 23/07/2026
 - Initial Official Release
 - Add ViPER4AndroidFX
