@@ -40,3 +40,12 @@ Matched brightness to stock NOS
 some improvements in smoothness
 tuned powerhints a little more
 Synced with latest source 
+
+#######################################################################################################
+
+August 8
+
+Synced with latest source
+Few perf improvements 
+
+
