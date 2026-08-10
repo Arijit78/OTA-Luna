@@ -1,6 +1,11 @@
 Changelog
 =========
 
+10/08/2026
+- Upstream Kernel to 6.6.142
+- Implement AxionFx
+- Fix distorted/crackling audio at volume levels above 50%
+
 08/08/2026
 - Fix random reboots
 - Drop ViPER4AndroidFX
