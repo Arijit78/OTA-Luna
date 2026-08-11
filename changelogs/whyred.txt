@@ -1,7 +1,7 @@
 Changelog
 =========
 
-01/08/2026
+11/08/2026
 ----------
 - Synced with latest source
 - overlay: Improve auto brightness responsiveness
@@ -13,6 +13,14 @@ Changelog
 - Improved browser launch speed.Faster launches now
 - Fixed browser killing issue when lmkd is activated
 - Updated kernel into latest v17
+- init: tune scheduler and memory parameters
+- init: correct persist path for PowerOffAlarm
+- sepolicy: Allow kernel to create qipcrtr_socket
+- overlay: Enable subtle tick vibration when revealing shelf
+- Enabled QPOWER + Deepsleep at the same time
+- powerhint: Remove CPUBWHystTriggerCount and CPUBWHistMemory
+- Fixed logspam
+- Improved overall ui smoothnes
 - Many more underhood changes
 
 04/07/2026
