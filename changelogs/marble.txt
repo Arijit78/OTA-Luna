@@ -1,5 +1,11 @@
 Changelog
 =========
+13/08/26
+- further reduce config_highResTaskSnapshotScale
+- Set max cached processes 256
+- add prime core freq boost in INTERACTION
+- dolby: Apply Dolby profiles only to compatible audio routes.
+
 04/08/26
 - switched 64bit
 - latest source synced
