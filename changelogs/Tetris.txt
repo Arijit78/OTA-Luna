@@ -1,5 +1,11 @@
 Changelog
 ==========
+
+14/08/2026
+----------
+- Cleanup powerhint.
+- misc changes.
+
 05/07/2026
 ----------
 - Fix an sepolicy denial causing deep sleep issues.
