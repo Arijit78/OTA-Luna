@@ -1,0 +1,30 @@
+{
+  "response": [
+    {
+      "maintainer": "Keosh",
+      "oem": "Poco",
+      "device": "mondrian",
+      "filename": "Lunaris-AOSP-mondrian-OFFICIAL-3.12-GMS-2026081521.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/mondrian/Lunaris-AOSP-mondrian-OFFICIAL-3.12-GMS-2026081521.zip/download",
+      "timestamp": 1786827610,
+      "md5": "a3edff3a1f74af8889f3e9d9eb8edf3d",
+      "sha256": "80bc1cc05f201f3d58904afe1f5f63da56a124df5866b9590ce2f8d235271ff9",
+      "size": 3406898289,
+      "version": "3.12",
+      "os_patch_level": "2026-08-01",
+      "os_sdk_level": 36,
+      "buildtype": "userdebug",
+      "forum": "",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "https://orangefox.download/device/6574e52f7f9618c5be6930ab",
+      "paypal": "https://buymeacoffee.com/keosh",
+      "telegram": "https://t.me/keoshlapgroup",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
+}
