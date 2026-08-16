@@ -1,6 +1,17 @@
 Changelog
 =========
 
+08/16/2026
+---------------
+-Synced with latest source
+-Switched to lineage power-hal (libperfmgr)
+-Bring back HDR toggle
+-Fix lockscreen charging info
+-Added toggle + QS tile for LTPO
+-HBM fixup (Restore manual brightness level when HBM is disabled)
+-Fixed DND reset on boot
+-Fix few issues with camera and ai unit (also synced with latest camera changes)
+
 08/05/2026
 ---------------
 -Sync with latest source
