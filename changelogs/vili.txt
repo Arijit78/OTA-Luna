@@ -1,6 +1,14 @@
 Changelog
 =========
 
+18/08/2026
+---------------
+- Fixed wallpaper crash issue
+- Now can use USB OTG with default rom recovery no need custom recovery like twrp/ofox
+- sm8350-common: Unmount /firmware after fastbootd starts
+- sm8350-common: Fix battery and USB OTG detection in recovery mode
+- vili: Load charger modules on recovery
+
 26/07/2026
 ---------------
 - Update/Flash > Reboot System
