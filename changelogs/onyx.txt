@@ -1,6 +1,13 @@
 Changelog
 =========
 
+19/08/2026
+----------
+- Latest Source Synced
+- Added Dolby Atmos
+- Fixed Overall Random Reboot Issues
+- Misc fixes and Improvement
+
 07/08/2026
 ----------
 - Latest Source Synced
