@@ -4,3 +4,7 @@ Changelog
 06/07/2026
 ---------------
 - initial official update
+
+21/08/2026
+---------------
+- Update from latest source changes
