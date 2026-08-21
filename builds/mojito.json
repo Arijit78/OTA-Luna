@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "Sachin_07",
+      "oem": "Xiaomi",
+      "device": "mojito",
+      "filename": "Lunaris-AOSP-mojito-OFFICIAL-3.12-GMS-2026071619.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/mojito/Lunaris-AOSP-mojito-OFFICIAL-3.12-GMS-2026071619.zip/download",
+      "timestamp": 1784231460,
+      "md5": "7b2a38d01d243b9ebbc1bd141f5cfe25",
+      "sha256": "fca4d1947e8b619ff05d40a889d3913f54f1db22e26acf61fc943e0b33772bec",
+      "size": 2517580524,
+      "version": "3.12",
+      "buildtype": "user",
+      "forum": "",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "https://t.me/sachinpawar_07",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
+}

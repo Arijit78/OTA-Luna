@@ -1,5 +1,12 @@
 Changelog
 =========
+08/16/2026
+--------------- 
+- Update Device Tree
+- Updated Rom source to latest
+- Added OPcamera port
+- Added Vibration Profiles from stock
+- Updated to Latest Resukisu and SUSFS
 05/09/2026
 --------------- 
 - Initial Official release

@@ -1,6 +1,15 @@
 Changelog
 =========
 
+21/07/2026
+---------------
+- update KernelSU-Next to v3.3.0
+- update SusFS to v2.2.0
+- merge upstream dolby changes
+- add back GameBar
+- add Vanadium browser and WebView
+- sync latest source
+
 03/07/2026
 ---------------
 - update blobs from CPH2569_15.0.0.1901(EX01)

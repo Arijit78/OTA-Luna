@@ -1,5 +1,23 @@
 Changelog
 =========
+
+11/08/2026
+---------------
+- Sync with latest source
+
+
+
+27/07/2026
+---------------
+- Sync with latest source
+- removed sf boost
+- fix some BQF stuffs
+- removed bypass charging support.
+- add some changes for better idle
+- NON root Scarlet 6.0
+
+
+
 21/04/2026
 ---------------
 - Sync with latest source

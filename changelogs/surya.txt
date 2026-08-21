@@ -1,5 +1,12 @@
 Changelog
 =========
+02/08/2026
+---------------
+- Synced Latest Source Changes
+- Removed KernelSu Support
+- Switch to AVC 3.1 codec for screen recording
+- More under the hood changes
+
 22/05/2026
 ---------------
 - Synced Latest Source Changes

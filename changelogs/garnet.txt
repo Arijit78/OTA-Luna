@@ -1,5 +1,23 @@
 Changelog
 =========
+02/08/2026
+---------------
+- sync with latest source
+- sync with grewal trees
+- Add back viper4 from switch-off
+- leica camera included
+- Apply dex2oat optimizations
+- Drop ultrasound-handset profile to fix route transitions
+- Sync with Spatial Audio
+- Add webview pinning
+- Increase audio offload buffer size from 32KB to 64KB
+- updated to latest ksun and susfs
+- Misc fixes and Improvement
+
+10/07/2026
+---------------
+- Sync with latest source
+
 08/06/2026
 ---------------
 - Sync with latest source upto (https://t.me/lunaris_dailyUP/934)

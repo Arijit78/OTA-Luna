@@ -1,5 +1,30 @@
 Changelog
 =========
+13/08/26
+- further reduce config_highResTaskSnapshotScale
+- Set max cached processes 256
+- add prime core freq boost in INTERACTION
+- dolby: Apply Dolby profiles only to compatible audio routes.
+
+04/08/26
+- switched 64bit
+- latest source synced
+- Added Vulkan support and media fix
+- Powerhint updated
+- Disabled ADVANCED_DISPLAY_COLOR
+
+
+24/07/24 - Hotfix
+- Dropped 64bit
+- add back L3MinFreq under INTERACTION
+- increase audio offload buffer size from 32KB to 64KB
+
+23/07/26
+- switched 64bit
+- Dolby updated Auto EQ profiles
+- Updated Powerhint
+- Introduce Performance Monitor
+
 
 05/07/26
 - sm8450-common: Set debug.sf.disable_client_composition_cache to 0

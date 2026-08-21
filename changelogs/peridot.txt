@@ -1,5 +1,19 @@
 Changelog
 =========
+02/08/2026
+---------------
+- sync with latest source
+- sync with grewal trees
+- Add webview pinning
+- Apply dex2oat optimizations
+- updated to latest ksun and susfs
+- Misc fixes and Improvement
+
+10/07/2026
+---------------
+- Sync with latest source
+- Removed AutoHBM parts
+
 07/06/2026
 ---------------
 - Sync with latest source upto (https://t.me/lunaris_dailyUP/934)

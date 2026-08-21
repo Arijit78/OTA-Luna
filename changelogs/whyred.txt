@@ -1,6 +1,28 @@
 Changelog
 =========
 
+11/08/2026
+----------
+- Synced with latest source
+- overlay: Improve auto brightness responsiveness
+- Enabled ScrollOptimizer & frame pacing for a smoother visual and scrolling experience
+- Tweaked memory pressure for 3/4GB RAM devices
+- overlay: Add webview pinning
+- overlay: Add launcher3 pinning
+- Limit memory for webview and launcher
+- Improved browser launch speed.Faster launches now
+- Fixed browser killing issue when lmkd is activated
+- Updated kernel into latest v17
+- init: tune scheduler and memory parameters
+- init: correct persist path for PowerOffAlarm
+- sepolicy: Allow kernel to create qipcrtr_socket
+- overlay: Enable subtle tick vibration when revealing shelf
+- Enabled QPOWER + Deepsleep at the same time
+- powerhint: Remove CPUBWHystTriggerCount and CPUBWHistMemory
+- Fixed logspam
+- Improved overall ui smoothnes
+- Many more underhood changes
+
 04/07/2026
 ----------
 - Synced with latest source

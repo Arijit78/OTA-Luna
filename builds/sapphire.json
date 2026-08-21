@@ -3,17 +3,17 @@
     {
       "maintainer": "Angelpro09_Dev",
       "oem": "Xiaomi",
-      "device": "Sapphire",
-      "filename": "Lunaris-AOSP-sapphire-OFFICIAL-3.12-GMS-2026070418.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/sapphire/Lunaris-AOSP-sapphire-OFFICIAL-3.12-GMS-2026070418.zip/download",
-      "timestamp": 1783188000,
-      "md5": "e2e5f86d54a441c0bc188ea97ea8df7e",
-      "sha256": "",
-      "size": 2837346962,
+      "device": "sapphire",
+      "filename": "Lunaris-AOSP-sapphire-OFFICIAL-3.12-GMS-2026072417.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/sapphire/Lunaris-AOSP-sapphire-OFFICIAL-3.12-GMS-2026072417.zip/download",
+      "timestamp": 1784922271,
+      "md5": "d56ed513547cd0338a7776377a90cac7",
+      "sha256": "8f5d30b12e2a6d013bf7c8ecbd5bf64675d6d791b5d6d6b3093b4774deac78ff",
+      "size": 2938516673,
       "version": "3.12",
       "buildtype": "user",
       "forum": "",
-      "gapps": "",
+      "gapps": "Included",
       "firmware": "",
       "modem": "",
       "bootloader": "",
@@ -22,7 +22,7 @@
       "telegram": "",
       "dt": "https://github.com/The-Angel-Place-Sapphire/device_xiaomi_sapphire",
       "common-dt": "",
-      "kernel": "https://github.com/The-Angel-Place-Sapphire/device_xiaomi_sapphire-kernel"
+      "kernel": ""
     }
   ]
 }

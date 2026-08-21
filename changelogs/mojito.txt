@@ -1,6 +1,34 @@
 Changelog
 =========
 
+17/07/2026
+----------
+- Latest Source Sync
+- Changed kernel to WESTCOAST-SUPERFAST-EAS (https://github.com/ximi-mojito-test/android_kernel_xiaomi_mojito) 
+- Vanilla Build Dropped
+- gapps: Debloated Gapps build as possible
+- Fixed Leica Camera Crash Issues
+- Fixed Wi-Fi connectivity with WPA3-Personal and WPA2/WPA3-Personal Networks
+- overlay: Disable UI touch sounds by default
+- overlay: Disable auto brightness by default
+- overlay: Allow HFR for MIUI Camera
+- configs: Allow camera to skip high frame rate checks
+- Disable verbose camera logs
+- Globally enable LTE+ icon
+- Optimize for Cortex-A76 CPUs
+- Improve RAM management for low-RAM devices
+- Tune SystemUI notifications and animations
+- Tune framework notifications and animations
+- Remove pins to the pinner service
+- Set VENDOR_SECURITY_PATCH to PLATFORM
+- Enable Incremental FS
+- Revert disabling Protected Management Frames (PMF)
+- Convert aux camera denylist packages to properties
+- Convert aux camera allowlist packages to properties
+- Allow camera initialization to skip failed camera IDs
+- sepolicy: Address vendor_hal_capabilityconfigstore_qti_default denial
+- Disable PRODUCT_OTA_ENFORCE_VINTF_KERNEL_REQUIREMENTS by default
+
 06/06/2026
 ----------
 - Latest Source Sync

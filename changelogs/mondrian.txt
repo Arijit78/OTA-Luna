@@ -1,0 +1,16 @@
+This is Android 16 .
+
+Notes:
+==============================
+- Lunaris AOSP based source. Signed build.
+- For Recovery check Official OrangeFOX.
+- Clean flash is required if coming from another rom.
+- Always dirty flash at your own risk. If your device bootloops, revert to an older build that boots.
+- Includes Dolby Atmos, Dolby Vision, POCO camera.
+- Credits to Arian16k, ph12nex, MIUI_users_r_GAY, Chaitanya, flakeforever, Adrianyyyy and more ......
+- Report issues with logs.
+- Rom already pre rooted use ReSukiSU manager from here : https://t.me/ReSukiSU/5.
+- Flash twice if you stuck at POCO Logo to update both slots.
+
+===== 16/08/2026 ====
+- initial official release

@@ -1,6 +1,42 @@
 Changelog
 =========
 
+08/16/2026
+---------------
+-Synced with latest source
+-Switched to lineage power-hal (libperfmgr)
+-Bring back HDR toggle
+-Fix lockscreen charging info
+-Added toggle + QS tile for LTPO
+-HBM fixup (Restore manual brightness level when HBM is disabled)
+-Fixed DND reset on boot
+-Fix few issues with camera and ai unit (also synced with latest camera changes)
+
+08/05/2026
+---------------
+-Sync with latest source
+-Updated firmware to OOS 11.F.91 (CPH2653_16.0.9.401(EX01))
+-Include Dolby Atmos
+-Sync with latest OP camera changes
+-Fixed LTPO impl
+-Include BCR
+
+07/26/2026
+---------------
+-Sync with latest source
+-Fix freezing issues in some apps
+-Fixed alert slider custom modes
+-Added HDR brightness mode
+
+07/08/2026
+---------------
+-Sync Rom Source to Lunaris AOSP 3.12
+-Update Device Trees to latest Source 11.F.90
+-Updated Kernel and SUSFS to latest
+-Updated AmberKernel V3.2
+-OP Camera Port thanks to the OP Camera Team
+
+
 06/16/2026
 ---------------
 -Sync Rom Source to Lunaris AOSP 3.11

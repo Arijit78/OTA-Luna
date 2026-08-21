@@ -1,6 +1,16 @@
 Changelog
 =========
 
+04/08/2026
+---------------
+- Synced with latest source
+- Updated to KSUN v3.3.0,SUSFS v2.2.0
+
+06/07/2026
+---------------
+- Synced with latest source
+- Merged BPF patches from kernel v5.10
+
 19/06/2026
 ---------------
 - Synced with latest source

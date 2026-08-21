@@ -17,7 +17,7 @@ Added new display color options
 
 #######################################################################################################
 
-June !7th 2026
+June 17th 2026
 Synced with latest source 
 Removed color options (for now)
 Reoptimised scudo 
@@ -25,3 +25,35 @@ Fixed a weird issue in the GooglePay app where the scanner shows a black screen
 Fixed heating issues in rare cases 
 Reduce charging speed even more by default when tempratre of device is hot
 Resolved or made the lag negligible when pulling down quick settings with too many notifications
+
+#######################################################################################################
+
+July 7th 
+Synced with latest source
+
+#######################################################################################################
+
+July 24th
+
+Updadted blobs 
+Matched brightness to stock NOS
+some improvements in smoothness
+tuned powerhints a little more
+Synced with latest source 
+
+#######################################################################################################
+
+August 8
+
+Synced with latest source
+Few perf improvements 
+
+#######################################################################################################
+
+August 8
+
+Synced with latest source 
+Added new bouncing launcher3 animations (this is not in source this is done by me and a few certain others this animation is exclusive to my builds)
+increased memory optimization 
+Fixed Raised to Wake 
+
