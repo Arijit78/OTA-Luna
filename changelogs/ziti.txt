@@ -3,6 +3,12 @@ Changelog
 
 21/07/2026
 ---------------
+- drop Vanadium browser and WebView
+- update blobs from CPH2569_15.0.0.1902(EX01)
+- sync latest source (as of 21-08-2026)
+
+21/07/2026
+---------------
 - update KernelSU-Next to v3.3.0
 - update SusFS to v2.2.0
 - merge upstream dolby changes
