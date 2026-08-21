@@ -11,6 +11,8 @@
       "sha256": "9d3b9246e0e69c336063ad9141df8a0b21ff450ef1cceb330ad6062fdea50cdb",
       "size": 3424344504,
       "version": "3.12",
+      "os_patch_level": "2026-08-01",
+      "os_sdk_level": 36,
       "buildtype": "",
       "forum": "",
       "gapps": "",
