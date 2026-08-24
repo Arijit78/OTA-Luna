@@ -1,7 +1,14 @@
 Changelog
 =========
 
-21/07/2026
+24/08/2026
+---------------
+- add back accidentally removed KernelSU Next
+- use vulkan as default
+- conditionally use erofs in GMS builds
+- sync latest source (as of 24-08-2026)
+
+21/08/2026
 ---------------
 - drop Vanadium browser and WebView
 - update blobs from CPH2569_15.0.0.1902(EX01)
