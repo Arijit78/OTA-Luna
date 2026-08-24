@@ -1,6 +1,14 @@
 Changelog
 =========
 
+24/08/2026
+---------------
+- Sync with latest source
+-Enabled ART
+-Removed Checkpoint_gc
+-Switch to skiaglthreaded renderthread backend
+
+
 11/08/2026
 ---------------
 - Sync with latest source
