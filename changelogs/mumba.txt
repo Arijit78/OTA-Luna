@@ -1,6 +1,20 @@
 Changelog
 =========
 
+27/08/2026
+- Implement LunarisDolby
+- Update Blobs to W1WAAS36.48-12-40-4
+- Drop QTI Power HAL and migrate to libperfmgr
+- Enable Wide Color Gamut support
+- Import missing liblmthermallistner
+- Add GameBar
+- Remove obsolete effects from audio_effects
+- Redo powerhint
+- Update Kernel from W1WAAS36.48-12-40-4 (6.6.102)
+- Drop AxionFx
+- Disable RX wakelock feature
+- Improve AnTuTu Score
+
 10/08/2026
 - Upstream Kernel to 6.6.142
 - Implement AxionFx
