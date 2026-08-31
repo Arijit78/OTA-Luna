@@ -1,6 +1,12 @@
 Changelog
 =========
 
+08/30/2026
+----------
+- Updated blobs and firmware from OOS 16.0.10.500
+- Upstreamed kernel to 6.1.176
+- Prevent surfaceflinger from using big cluster
+
 08/03/2026
 ----------
 - Synced latest source changes
