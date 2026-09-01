@@ -1,8 +1,13 @@
 Changelog
 =========
+01/09/2026
+---------------
+Update Udfps/UdfpsHandler.cpp to fox false HBM toich  light on lockscreen 
+Update MiuiCamera with latest changes/fixes (Fix open in any gallery)
+
 24/07/2026
 ---------------
-Add MiuiGallery (Port by Angelpor09_Devv)
+Add MiuiGallery (Port by Angelpro09_Devv)
 Add MiuiCamera support 108MP and 12MP in main camera (Spetial Thanks to Liieko for 108 MP FIX)
 Enable system-wide background blur (Adreno 610 tuned)
 
