@@ -1,0 +1,7 @@
+Changelog
+=========
+
+03/09/2026
+----------
+- Initial official release
+- Synced with latest source
