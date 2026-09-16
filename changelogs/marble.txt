@@ -1,6 +1,18 @@
 Changelog
 =========
 
+16/09/26
+- dolby:Added Vietnamese translations
+- Update Indonesian translations
+- Remove the unused AnimatedEqualizerHeader composable
+- Extract equalizer section header and unify bottom spacer
+- Give equalizer nav tab an accessible name when unselected
+- Fix app-profile monitor after a sticky service restart
+- Redesign UI with Material 3 Expressive colors
+- Derive equalizer frequency range from band data
+- Dolby Credits Ghousto
+- Pixel launcher disabled (temp)
+
 13/09/26
 - dolby: kang dax-defualt from aospa
 - sm8450-common: Disable all CLO-specific perf features
