@@ -1,6 +1,13 @@
 Changelog
 =========
 
+19/09/2026
+---------------
+- fix secure element log spam
+- merge upstream kernel
+- no more builtin KernelSU-Next
+- sync latest source (as of 19-09-2026)
+
 24/08/2026
 ---------------
 - add back accidentally removed KernelSU Next
@@ -41,3 +48,4 @@ Changelog
 - added GameBar
 - always use lz4 for zram
 - other miscellaneous changes
+
