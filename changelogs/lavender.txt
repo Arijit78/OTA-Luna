@@ -1,6 +1,12 @@
 Changelog
 =========
 
+20/09/2026
+---------------   
+• Fixed MTP, Wi-Fi, and Charging control
+• Sync with latest hardware_dolby
+• manifest: Bump target-level to 7
+
 08/07/2026
 ---------------   
 • Sync with latest hardware_dolby
@@ -17,10 +23,8 @@ Changelog
 • Beautify RRO overlays
 • Drop launcher overlay
 
-
 12/06/2026
 ---------------   
-• Initial Project Lunaris-AOSP bring-up
 • Update brightness values
 • Define vendor_sysfs_kgsl SELinux type
 • Increase LMK thresholds
