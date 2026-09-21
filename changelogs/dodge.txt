@@ -1,6 +1,23 @@
 Changelog
 =========
 
+09/21/2026
+---------------
+-Synced with latest source
+-Updated firmware to OOS 11.F.93 (CPH2653_16.0.10.501(EX01))
+-Synced with latest lineage trees
+-Upstreamed kernel version to v6.1.142
+-Fixed issues with HeyMelody app & Oneplus buds
+-Added back toast notifications for alert slider
+-Fixed haptic feedback for keyboard and udfps in gentle haptic modes
+-Added toggle for keyboard haptics
+-Toggle for fast and night mode charging
+-Tweaked brightness config for auto brightness
+-Switched to auto HDR
+-Fix photos oversaturation issue
+-Silenced some log spams
+-Few minor fixes in Oplus Camera
+
 08/16/2026
 ---------------
 -Synced with latest source
